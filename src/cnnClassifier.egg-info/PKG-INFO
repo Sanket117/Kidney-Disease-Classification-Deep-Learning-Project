@@ -7,4 +7,40 @@ Author: Sanket117
 Author-email: nsksanketsatpute@gmail.com
 Project-URL: Bug Tracker, https://github.com/Sanket117/Kidney-Disease-Classification-Deep-Learning-Project/issues
 
-# Kidney-Disease-Classification-Deep-Learning-Project
+
+
+Clone the repository
+
+```bash
+https://github.com/Sanket117/Kidney-Disease-Classification-Deep-Learning-Project
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n cnncls python=3.8 -y
+```
+
+```bash
+conda activate cnncls
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
+
+
+
+
+
